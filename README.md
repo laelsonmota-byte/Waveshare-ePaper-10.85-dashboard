@@ -1,3 +1,8 @@
+### Aliexpress
+Https://pt.aliexpress.com/w/wholesale-Raspberry-Pi-Zero-2-W.html?spm=a2g0o.detail.search.0
+## YT - Assembling EPaper Dashboard Waveshare 10.85''
+https://www.youtube.com/watch?v=H964RpaJvu0
+
 # Waveshare-ePaper-10.85 Dashboard
 
 A fully functional E-ink dashboard running on a Raspberry Pi Zero 2W. Designed for large Waveshare e-Paper displays (e.g., 10.85"), this project aggregates essential daily information and smart home status into a clean, minimalist interface.
