@@ -1,3 +1,7 @@
+outros projetos semelhantes:
+##YT: Build a COLOUR E-INK DASHBOARD - Weather | Calendar | Photos | News...
+https://www.youtube.com/watch?v=-CdsynN6jqU
+
 ### Aliexpress
 Https://pt.aliexpress.com/w/wholesale-Raspberry-Pi-Zero-2-W.html?spm=a2g0o.detail.search.0
 R$ 343,00 + impostos R$ 129,5
